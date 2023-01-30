@@ -58,7 +58,11 @@ Lovely Professional University Punjab
 </div>
 <br>
 <h2>:fire: My Stats :</h2>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Chaitu785&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <br>
+  <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=Chaitu785&theme=dark&hide_border=true&sideNums=15DD00&stroke=00DD1E&background=000000)](https://git.io/streak-stats)"/>
+</p>
+<br>
 
 
 
