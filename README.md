@@ -1,18 +1,64 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dECBf0xnwQKCPZOkiC/giphy.gif" width="200" height="200"/>
 </div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/></div>
 <h1>👋 Hi, I’m Chaitanya </h1>
 <hr>
-<h4>▂ ▄ ▅  ETHICAL HACKER ▅ ▄ ▂</h4>
+<h4>▂ ▄ ▅ <strong> ETHICAL HACKER </strong> ▅ ▄ ▂</h4>
 <p><strong>[THE QUITRE YOU BECOME : MORE YOU ARE ABLE TO HEAR]</strong></p>
 👑Welcome to my Network👑<br>
 ⏺ Cybersecurity Student👩‍💻<br>
 Lovely Professional University Punjab
+<hr>
+
+<h2> <a href="https://drive.google.com/file/d/1qNdix25ztCuI0t83SrkByBM5DSROSPj_/view?usp=share_link" target="_blanck"> Click to know about me !</a> </h2>
+
+<h2>Contact with me</h2>
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/chaitanya-madane-2802b5223/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="https://twitter.com/c_h_a_i_2">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  
+  <a href="https://discord.com/channels/952987712116379710/952987712649068565">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+  
+   <a href="https://www.instagram.com/_joy_4_u/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  
+  
+    
+  
+  
+</div>
+<h2> :hammer_and_wrench: Languages and Tools : </h2>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-VsCode-B55A30?style=flat-square&logo=visual-studio-code"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+</div>
 <br>
-<h2> <a href="https://drive.google.com/file/d/1qNdix25ztCuI0t83SrkByBM5DSROSPj_/view?usp=share_link" target="_blanck"> Know about me !</a> </h2>
-
-<p align="left"> <a href="https://twitter.com/c_h_a_i_2" target="blank"><img src="https://img.shields.io/twitter/url?label=c_h_a_i_2&style=social&url=https%3A%2F%2Ftwitter.com%2Fc_h_a_i_2" /></a> </p>
-
+<h2>:fire: My Stats :</h2>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Chaitu785&theme=dark&hide_border=true&border=00FF5F&background=000000&ring=DD7213&sideNums=11DD3B)](https://git.io/streak-stats)
 
 
 
