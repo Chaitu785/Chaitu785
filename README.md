@@ -8,8 +8,11 @@
 👑Welcome to my Network👑<br>
 ⏺ Cybersecurity Student👩‍💻<br>
 Lovely Professional University Punjab
+<br>
+<h2> <a href="https://drive.google.com/file/d/1qNdix25ztCuI0t83SrkByBM5DSROSPj_/view?usp=share_link" target="_blanck"> Know about me !</a> </h2>
 
 <p align="left"> <a href="https://twitter.com/c_h_a_i_2" target="blank"><img src="https://img.shields.io/twitter/url?label=c_h_a_i_2&style=social&url=https%3A%2F%2Ftwitter.com%2Fc_h_a_i_2" /></a> </p>
+
 
 
 
