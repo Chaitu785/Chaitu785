@@ -11,7 +11,7 @@
 Lovely Professional University Punjab
 <hr>
 
-<h2> <a href="https://drive.google.com/file/d/1qNdix25ztCuI0t83SrkByBM5DSROSPj_/view?usp=share_link" target="_blanck"> Click to know about me !</a> </h2>
+<h2> <a href="https://chaitu785.github.io/Myportfolio.github.io/" target="_blanck"> Click to know about me !</a> </h2>
 
 <h2>Contact with me</h2>
 
