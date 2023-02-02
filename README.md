@@ -71,6 +71,14 @@ Lovely Professional University Punjab
   <img src="https://streak-stats.demolab.com?user=Chaitu785&theme=dark&hide_border=true&sideNums=15DD00&stroke=00DD1E&background=000000)](https://git.io/streak-stats"/>
 </p>
 <br>
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=Chaitu785=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Chaitu785&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitu785&hide=php&theme=tokyonight" />
+</a>
+</div>
 <h4> Thanks to Visit </h4>
 
 
