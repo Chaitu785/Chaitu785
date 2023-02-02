@@ -79,7 +79,7 @@ Lovely Professional University Punjab
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitu785&hide=php&theme=tokyonight" />
 </a>
 </div>
-<h4> Thanks to Visit </h4>
+
 
 
 
