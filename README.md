@@ -4,8 +4,8 @@
 <div align="center"><img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/></div>
 <h1>👋 Hi, I’m Chaitanya </h1>
 <hr>
-<h4>▂ ▄ ▅ <strong> ETHICAL HACKER </strong> ▅ ▄ ▂</h4>
-<p><strong>[THE QUITRE YOU BECOME : MORE YOU ARE ABLE TO HEAR]</strong></p>
+<h2>▂ ▄ ▅ <strong> ETHICAL HACKER </strong> ▅ ▄ ▂</h2>
+<p><h3>[THE QUITRE YOU BECOME : THE MORE YOU ARE ABLE TO HEAR]</h3></p>
 👑Welcome to my Network👑<br>
 ⏺ Cybersecurity Student👩‍💻<br>
 Lovely Professional University Punjab
