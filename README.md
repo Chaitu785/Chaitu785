@@ -17,7 +17,7 @@ Lovely Professional University Punjab
 
 
 
-<a href="https://drive.google.com/file/d/1qNdix25ztCuI0t83SrkByBM5DSROSPj_/view?usp=share_link" target="_blank">Click to Download Resume</a>
+<a href="https://drive.google.com/file/d/19S0I_ZtxzTAin7oykZzNBrop0HSarL-n/view?usp=share_link">Click to Download Resume</a>
 
 
 
